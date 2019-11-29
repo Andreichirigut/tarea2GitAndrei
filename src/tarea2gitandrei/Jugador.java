@@ -10,5 +10,7 @@ package tarea2gitandrei;
  * @author Chiri
  */
 public class Jugador {
-    
+    String nombre;
+    int votos;
+    int id;
 }
