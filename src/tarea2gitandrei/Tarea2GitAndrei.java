@@ -15,7 +15,10 @@ public class Tarea2GitAndrei {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        Jugador jugador = new Jugador("Pepe", 3, 10);
+        
+    
     }
     
 }
